@@ -1,0 +1,15 @@
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\bin\Debug\net7.0\Lesson 19 25.09.2023.exe
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\bin\Debug\net7.0\Lesson 19 25.09.2023.deps.json
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\bin\Debug\net7.0\Lesson 19 25.09.2023.runtimeconfig.json
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\bin\Debug\net7.0\Lesson 19 25.09.2023.dll
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\bin\Debug\net7.0\Lesson 19 25.09.2023.pdb
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\obj\Debug\net7.0\Lesson 19 25.09.2023.csproj.AssemblyReference.cache
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\obj\Debug\net7.0\Lesson 19 25.09.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\obj\Debug\net7.0\Lesson 19 25.09.2023.AssemblyInfoInputs.cache
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\obj\Debug\net7.0\Lesson 19 25.09.2023.AssemblyInfo.cs
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\obj\Debug\net7.0\Lesson 19 25.09.2023.csproj.CoreCompileInputs.cache
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\obj\Debug\net7.0\Lesson 19 25.09.2023.dll
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\obj\Debug\net7.0\refint\Lesson 19 25.09.2023.dll
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\obj\Debug\net7.0\Lesson 19 25.09.2023.pdb
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\obj\Debug\net7.0\Lesson 19 25.09.2023.genruntimeconfig.cache
+C:\Users\Nigar\source\repos\Lesson 19 25.09.2023\obj\Debug\net7.0\ref\Lesson 19 25.09.2023.dll

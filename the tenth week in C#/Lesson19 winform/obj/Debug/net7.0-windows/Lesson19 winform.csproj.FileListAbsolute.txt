@@ -1,0 +1,18 @@
+C:\Users\Nigar\source\repos\Lesson19 winform\bin\Debug\net7.0-windows\Lesson19 winform.exe
+C:\Users\Nigar\source\repos\Lesson19 winform\bin\Debug\net7.0-windows\Lesson19 winform.deps.json
+C:\Users\Nigar\source\repos\Lesson19 winform\bin\Debug\net7.0-windows\Lesson19 winform.runtimeconfig.json
+C:\Users\Nigar\source\repos\Lesson19 winform\bin\Debug\net7.0-windows\Lesson19 winform.dll
+C:\Users\Nigar\source\repos\Lesson19 winform\bin\Debug\net7.0-windows\Lesson19 winform.pdb
+C:\Users\Nigar\source\repos\Lesson19 winform\obj\Debug\net7.0-windows\Lesson19 winform.csproj.AssemblyReference.cache
+C:\Users\Nigar\source\repos\Lesson19 winform\obj\Debug\net7.0-windows\Lesson19_winform.Form1.resources
+C:\Users\Nigar\source\repos\Lesson19 winform\obj\Debug\net7.0-windows\Lesson19 winform.csproj.GenerateResource.cache
+C:\Users\Nigar\source\repos\Lesson19 winform\obj\Debug\net7.0-windows\Lesson19 winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigar\source\repos\Lesson19 winform\obj\Debug\net7.0-windows\Lesson19 winform.AssemblyInfoInputs.cache
+C:\Users\Nigar\source\repos\Lesson19 winform\obj\Debug\net7.0-windows\Lesson19 winform.AssemblyInfo.cs
+C:\Users\Nigar\source\repos\Lesson19 winform\obj\Debug\net7.0-windows\Lesson19 winform.csproj.CoreCompileInputs.cache
+C:\Users\Nigar\source\repos\Lesson19 winform\obj\Debug\net7.0-windows\Lesson19 winform.dll
+C:\Users\Nigar\source\repos\Lesson19 winform\obj\Debug\net7.0-windows\refint\Lesson19 winform.dll
+C:\Users\Nigar\source\repos\Lesson19 winform\obj\Debug\net7.0-windows\Lesson19 winform.pdb
+C:\Users\Nigar\source\repos\Lesson19 winform\obj\Debug\net7.0-windows\Lesson19 winform.genruntimeconfig.cache
+C:\Users\Nigar\source\repos\Lesson19 winform\obj\Debug\net7.0-windows\ref\Lesson19 winform.dll
+C:\Users\Nigar\source\repos\Lesson19 winform\obj\Debug\net7.0-windows\Lesson19_winform.Form2.resources
