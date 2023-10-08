@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Lesson 18 winform, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Lesson 18 winform -> C:\Users\Nigar\source\repos\Lesson 18 winform\bin\Debug\net7.0-windows\Lesson 18 winform.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 11:46 AM and took 00.731 seconds ==========

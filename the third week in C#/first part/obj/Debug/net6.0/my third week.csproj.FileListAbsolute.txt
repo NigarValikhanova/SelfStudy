@@ -1,0 +1,15 @@
+C:\Users\Nigar\source\repos\my third week\bin\Debug\net6.0\my third week.exe
+C:\Users\Nigar\source\repos\my third week\bin\Debug\net6.0\my third week.deps.json
+C:\Users\Nigar\source\repos\my third week\bin\Debug\net6.0\my third week.runtimeconfig.json
+C:\Users\Nigar\source\repos\my third week\bin\Debug\net6.0\my third week.dll
+C:\Users\Nigar\source\repos\my third week\bin\Debug\net6.0\my third week.pdb
+C:\Users\Nigar\source\repos\my third week\obj\Debug\net6.0\my third week.csproj.AssemblyReference.cache
+C:\Users\Nigar\source\repos\my third week\obj\Debug\net6.0\my third week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigar\source\repos\my third week\obj\Debug\net6.0\my third week.AssemblyInfoInputs.cache
+C:\Users\Nigar\source\repos\my third week\obj\Debug\net6.0\my third week.AssemblyInfo.cs
+C:\Users\Nigar\source\repos\my third week\obj\Debug\net6.0\my third week.csproj.CoreCompileInputs.cache
+C:\Users\Nigar\source\repos\my third week\obj\Debug\net6.0\my third week.dll
+C:\Users\Nigar\source\repos\my third week\obj\Debug\net6.0\refint\my third week.dll
+C:\Users\Nigar\source\repos\my third week\obj\Debug\net6.0\my third week.pdb
+C:\Users\Nigar\source\repos\my third week\obj\Debug\net6.0\my third week.genruntimeconfig.cache
+C:\Users\Nigar\source\repos\my third week\obj\Debug\net6.0\ref\my third week.dll

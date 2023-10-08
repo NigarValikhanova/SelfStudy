@@ -1,0 +1,15 @@
+C:\Users\Nigar\source\repos\testoverall\bin\Debug\net6.0\testoverall.exe
+C:\Users\Nigar\source\repos\testoverall\bin\Debug\net6.0\testoverall.deps.json
+C:\Users\Nigar\source\repos\testoverall\bin\Debug\net6.0\testoverall.runtimeconfig.json
+C:\Users\Nigar\source\repos\testoverall\bin\Debug\net6.0\testoverall.dll
+C:\Users\Nigar\source\repos\testoverall\bin\Debug\net6.0\testoverall.pdb
+C:\Users\Nigar\source\repos\testoverall\obj\Debug\net6.0\testoverall.csproj.AssemblyReference.cache
+C:\Users\Nigar\source\repos\testoverall\obj\Debug\net6.0\testoverall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigar\source\repos\testoverall\obj\Debug\net6.0\testoverall.AssemblyInfoInputs.cache
+C:\Users\Nigar\source\repos\testoverall\obj\Debug\net6.0\testoverall.AssemblyInfo.cs
+C:\Users\Nigar\source\repos\testoverall\obj\Debug\net6.0\testoverall.csproj.CoreCompileInputs.cache
+C:\Users\Nigar\source\repos\testoverall\obj\Debug\net6.0\testoverall.dll
+C:\Users\Nigar\source\repos\testoverall\obj\Debug\net6.0\refint\testoverall.dll
+C:\Users\Nigar\source\repos\testoverall\obj\Debug\net6.0\testoverall.pdb
+C:\Users\Nigar\source\repos\testoverall\obj\Debug\net6.0\testoverall.genruntimeconfig.cache
+C:\Users\Nigar\source\repos\testoverall\obj\Debug\net6.0\ref\testoverall.dll

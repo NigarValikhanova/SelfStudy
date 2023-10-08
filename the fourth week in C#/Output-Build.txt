@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: My fourth week, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>My fourth week -> C:\Users\Nigar\source\repos\My fourth week\bin\Debug\net6.0\My fourth week.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 11:43 PM and took 00.609 seconds ==========

@@ -1,0 +1,15 @@
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\bin\Debug\net6.0\11.09.2023 Lesson15.exe
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\bin\Debug\net6.0\11.09.2023 Lesson15.deps.json
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\bin\Debug\net6.0\11.09.2023 Lesson15.runtimeconfig.json
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\bin\Debug\net6.0\11.09.2023 Lesson15.dll
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\bin\Debug\net6.0\11.09.2023 Lesson15.pdb
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\obj\Debug\net6.0\11.09.2023 Lesson15.csproj.AssemblyReference.cache
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\obj\Debug\net6.0\11.09.2023 Lesson15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\obj\Debug\net6.0\11.09.2023 Lesson15.AssemblyInfoInputs.cache
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\obj\Debug\net6.0\11.09.2023 Lesson15.AssemblyInfo.cs
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\obj\Debug\net6.0\11.09.2023 Lesson15.csproj.CoreCompileInputs.cache
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\obj\Debug\net6.0\11.09.2023 Lesson15.dll
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\obj\Debug\net6.0\refint\11.09.2023 Lesson15.dll
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\obj\Debug\net6.0\11.09.2023 Lesson15.pdb
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\obj\Debug\net6.0\11.09.2023 Lesson15.genruntimeconfig.cache
+C:\Users\Nigar\source\repos\11.09.2023 Lesson15\obj\Debug\net6.0\ref\11.09.2023 Lesson15.dll

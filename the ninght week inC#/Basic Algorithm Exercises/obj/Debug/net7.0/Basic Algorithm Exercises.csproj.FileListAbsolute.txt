@@ -1,0 +1,15 @@
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\bin\Debug\net7.0\Basic Algorithm Exercises.exe
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\bin\Debug\net7.0\Basic Algorithm Exercises.deps.json
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\bin\Debug\net7.0\Basic Algorithm Exercises.runtimeconfig.json
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\bin\Debug\net7.0\Basic Algorithm Exercises.dll
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\bin\Debug\net7.0\Basic Algorithm Exercises.pdb
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\obj\Debug\net7.0\Basic Algorithm Exercises.csproj.AssemblyReference.cache
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\obj\Debug\net7.0\Basic Algorithm Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\obj\Debug\net7.0\Basic Algorithm Exercises.AssemblyInfoInputs.cache
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\obj\Debug\net7.0\Basic Algorithm Exercises.AssemblyInfo.cs
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\obj\Debug\net7.0\Basic Algorithm Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\obj\Debug\net7.0\Basic Algorithm Exercises.dll
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\obj\Debug\net7.0\refint\Basic Algorithm Exercises.dll
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\obj\Debug\net7.0\Basic Algorithm Exercises.pdb
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\obj\Debug\net7.0\Basic Algorithm Exercises.genruntimeconfig.cache
+C:\Users\Nigar\source\repos\Basic Algorithm Exercises\obj\Debug\net7.0\ref\Basic Algorithm Exercises.dll
