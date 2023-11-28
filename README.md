@@ -9,3 +9,5 @@ EN
 NE
 
 E+N=NE
+
+string Love = "Nigar Loves Elgun"
