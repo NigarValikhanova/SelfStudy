@@ -8,3 +8,4 @@ EN
 
 NE
 
+E+N=NE
