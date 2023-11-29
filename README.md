@@ -43,3 +43,39 @@ body{
 }
 
 
+<h4> HTML </h4>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Registration Form</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
+</head>
+
+<body>
+  <div class="container">
+        <header>Registration</header>
+    
+        <form action="#">
+          <div class="form first">
+            <div class="details personal">
+              <span class="title">Personal Details</span>
+
+              <div class="fields">
+                <div class="input-field">
+                  <label>Full Name</label>
+                  <input type="text" placeholder="Enter your name" required>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+    </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
