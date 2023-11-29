@@ -70,7 +70,68 @@ body{
                   <label>Full Name</label>
                   <input type="text" placeholder="Enter your name" required>
                 </div>
+
+                <div class="input-field">
+                  <label>Date of Birth</label>
+                  <input type="date" placeholder="Enter birth date" required>
+                </div>
+
+                <div class="input-field">
+                  <label>Email</label>
+                  <input type="text" placeholder="Enter your email" required>
+                </div>
+
+                <div class="input-field">
+                  <label>Mobile Number</label>
+                  <input type="text" placeholder="Enter mobile number" required>
+                </div>
+
+                <div class="input-field">
+                  <label>Gender</label>
+                  <input type="text" placeholder="Enter your gender" required>
+                </div>
+
+                <div class="input-field">
+                  <label>Occupation</label>
+                  <input type="text" placeholder="Enter your occupation" required>
+                </div>
               </div>
+
+
+              <div class="details ID">
+                <span class="title">Identity Details</span>
+
+                <div class="fields">
+                  <div class="input-field">
+                    <label>ID Type</label>
+                    <input type="text" placeholder="Enter ID type" required>
+                  </div>
+
+                  <div class="input-field">
+                    <label>ID Number</label>
+                    <input type="number" placeholder="Enter ID number" required>
+                  </div>
+
+                  <div class="input-field">
+                    <label>Issued Authority</label>
+                    <input type="text" placeholder="Enter issued authority" required>
+                  </div>
+
+                  <div class="input-field">
+                    <label>Issued State</label>
+                    <input type="text" placeholder="Enter issued state" required>
+                  </div>
+
+                  <div class="input-field">
+                    <label>Issued Date</label>
+                    <input type="date" placeholder="Enter issued date" required>
+                  </div>
+
+                  <div class="input-field">
+                    <label>Expiry Date</label>
+                    <input type="date" placeholder="Enter expiry date" required>
+                  </div>
+                </div>
             </div>
           </div>
         </form>
