@@ -93,6 +93,32 @@ form .fields .input-field{
 .input-field input[type="date"]:valid{
   color:#333;
 }
+.container form button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 45px;
+  max-width: 200px;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  margin: 25px 0;
+  outline: none;
+  color: #fff;
+  background-color: #4070f4;
+  transition: all 0.3s linear;
+  cursor: pointer;
+}
+form button:hover{
+  background-color: #265df2;
+}
+form button i{
+  margin: 0 6px;
+}
+form .Buttons{
+  display: flex;
+  align-content: center;
+}
 
 <h4> HTML </h4>
 
@@ -183,8 +209,102 @@ form .fields .input-field{
                     <input type="date" placeholder="Enter expiry date" required>
                   </div>
                 </div>
+
+                <button class="nextbtn">
+                  <span class="btnText"> Next </span> 
+                  <i class="uil uil-navigator"></i>
+                </button>
             </div>
           </div>
+
+            
+            <div class="form second">
+              <div class="details address">
+                <span class="title">Address Details</span>
+
+                <div class="fields">
+                  <div class="input-field">
+                    <label>Address Type</label>
+                    <input type="text" placeholder="Enter address type" required>
+                  </div>
+
+                  <div class="input-field">
+                    <label>Nationality</label>
+                    <input type="date" placeholder="Enter nationality" required>
+                  </div>
+
+                  <div class="input-field">
+                    <label>State</label>
+                    <input type="text" placeholder="Enter your state" required>
+                  </div>
+
+                  <div class="input-field">
+                    <label>District</label>
+                    <input type="text" placeholder="Enter your district" required>
+                  </div>
+
+                  <div class="input-field">
+                    <label>Block Number</label>
+                    <input type="number" placeholder="Enter block number" required>
+                  </div>
+
+                  <div class="input-field">
+                    <label>Ward Number</label>
+                    <input type="number" placeholder="Enter ward number" required>
+                  </div>
+                </div>
+
+
+                <div class="details Family">
+                  <span class="title">Family Details</span>
+
+                  <div class="fields">
+                    <div class="input-field">
+                      <label>Father Name</label>
+                      <input type="text" placeholder="Enter father name" required>
+                    </div>
+
+                    <div class="input-field">
+                      <label>Mother Name</label>
+                      <input type="text" placeholder="Enter mother name" required>
+                    </div>
+
+                    <div class="input-field">
+                      <label>Grandfather Name</label>
+                      <input type="text" placeholder="Enter grandfather name" required>
+                    </div>
+
+                    <div class="input-field">
+                      <label>Grandmother Name</label>
+                      <input type="text" placeholder="Enter grandmother name" required>
+                    </div>
+
+                    <div class="input-field">
+                      <label>Spouse Name</label>
+                      <input type="text" placeholder="Enter spouse name" required>
+                    </div>
+
+                    <div class="input-field">
+                      <label>Sibling Name</label>
+                      <input type="text" placeholder="Enter sibling name" required>
+                    </div>
+                  </div>
+
+                  <div class="Buttons">
+                    <button class="nextbtn">
+                      <span class="btnText"> Next </span> 
+                      <i class="uil uil-navigator"></i>
+                    </button>
+
+                    <button class="nextbtn">
+                      <span class="btnText"> Next </span> 
+                      <i class="uil uil-navigator"></i>
+                    </button>
+                  </div>
+              </div>
+            </div>
+          </div>
+            
         </form>
     </div>
   <script src="script.js"></script>
